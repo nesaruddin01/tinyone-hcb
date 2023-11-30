@@ -1,0 +1,21 @@
+this website is-----------
+psd to html/ psd to bootstrap
+psd to html responsive with bootstrap
+
+
+ekhane alochona thakbe------
+html, css, bootstrap
+
+
+font-family: 'PT Sans', sans-serif;
+
+
+fonts----
+ptsans
+    bold, regular
+
+
+fonts color--
+black   #010101
+ash     #898989
+yellow  #fcdb00
